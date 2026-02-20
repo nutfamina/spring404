@@ -1,3 +1,5 @@
+package myapp;
+
 import org.springframework.stereotype.Repository;
 import java.util.ArrayList;
 
